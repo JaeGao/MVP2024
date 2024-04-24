@@ -21,6 +21,17 @@ st.set_page_config(
      layout="wide",
      initial_sidebar_state="expanded",
 )
+st.markdown("""
+    <style>
+        .reportview-container {
+            margin-top: -2em;
+        }
+        #MainMenu {visibility: hidden;}
+        .stDeployButton {display:none;}
+        footer {visibility: hidden;}
+        #stDecoration {display:none;}
+    </style>
+""", unsafe_allow_html=True)
 col1, col2 = st.columns([1,1])
     
 if 'suggestion_input' not in st.session_state:

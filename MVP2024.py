@@ -6,8 +6,20 @@ playwright_install()
 st.set_page_config(
     page_title="MVP2024",
     page_icon="😎",
+    layout="wide"
 )
 
+st.markdown("""
+    <style>
+        .reportview-container {
+            margin-top: -2em;
+        }
+        #MainMenu {visibility: hidden;}
+        .stDeployButton {display:none;}
+        footer {visibility: hidden;}
+        #stDecoration {display:none;}
+    </style>
+""", unsafe_allow_html=True)
 st.sidebar.success("Select A Function Above.")
 
 st.write("# Welcome to MVP 2024")
