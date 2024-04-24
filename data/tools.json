@@ -1,0 +1,65 @@
+[
+    {
+        "type": "function",
+        "function": {
+            "name": "titles",
+            "description": "让用户从标题列表中挑选一个合适的标题",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "标题列表": {
+                        "type": "string",
+                        "description": "所需格式：元素为单个标题的python列表"
+                    }
+                },
+                "required": [
+                    "标题列表"
+                ]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "xhs_creator",
+            "description": "根据标题，正文，Tags组成小红书完整推文",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "标题": {
+                        "type": "string"
+                    },
+                    "正文": {
+                        "type": "string"
+                    },
+                    "Tags": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "标题",
+                    "正文",
+                    "Tags"
+                ]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "abstraction",
+            "description": "根据故事概要，来判别小红书贴文的类别",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "故事概要": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "故事概要"
+                ]
+            }
+        }
+    }
+]
