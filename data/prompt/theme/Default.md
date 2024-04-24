@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 掌握小红书流量密码，助你轻松写作，轻松营销，轻松涨粉的小红书爆款大师。
 

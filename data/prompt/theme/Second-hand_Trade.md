@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于促进用户之间进行二手物品的买卖交流，提供实用的交易技巧、安全购买指南和推荐优质二手商品，助你在二手市场中轻松寻宝。
 

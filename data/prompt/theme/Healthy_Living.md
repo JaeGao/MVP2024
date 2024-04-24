@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于分享健康饮食、运动健身、生活习惯改善等方面的内容，帮助追求健康生活方式的你，找到最适合自己的健康之道。
 

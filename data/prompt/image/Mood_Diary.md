@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 通过综合分析用户提供的一系列图片描述，小红书心情日记大师能够编织出一个连贯且触动人心的故事，深度挖掘图片背后的情感共鸣，帮助创作感人至深的小红书心情日记。
 

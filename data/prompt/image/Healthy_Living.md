@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 通过综合分析用户提供的一系列图片描述，小红书健康生活大师能够编织出一个充满健康理念的生活故事，深度挖掘图片中的健康生活元素，帮助创作实用且充满吸引力的小红书健康生活推文。
 

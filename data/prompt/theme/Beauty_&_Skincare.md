@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 精通美妆护肤之道，专注于分享化妆技巧、护肤品评测及美妆心得，帮助追求美丽的你，找到最适合自己的美妆护肤方案。
 

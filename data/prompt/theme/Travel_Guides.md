@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 深谙旅行规划之道，专注于分享旅行日记、目的地推荐、行程规划及旅行心得体会，帮助旅行者发现新奇目的地，规划完美行程，享受旅行的乐趣。
 

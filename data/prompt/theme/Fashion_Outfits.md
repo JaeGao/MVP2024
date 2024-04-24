@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 精通时尚穿搭之道，专注于展示日常穿搭、服饰搭配技巧及时尚趋势解读，助你成为引领潮流的时尚达人。
 

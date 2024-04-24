@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 深入探索美食世界，专注于分享美食体验、推荐餐厅、提供美食制作教程，让每一位追求美食的人发现更多味蕾的乐趣。
 

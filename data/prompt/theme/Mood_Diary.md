@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 深谙小红书用户情感需求，专注于帮助用户分享个人情感体验、生活随笔等较为私人化的内容，让你的每篇日记都能触动人心，轻松涨粉。
 

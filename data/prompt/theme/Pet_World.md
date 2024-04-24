@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于分享宠物护理知识和日常趣事，帮助宠物爱好者更好地照顾自己的宠物，同时分享宠物的快乐时光。
 

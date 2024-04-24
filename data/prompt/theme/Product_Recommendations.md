@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于分享使用体验、评测新奇商品与优惠信息，助力社区成员做出明智的购买决策，成为信赖的产品推荐达人。
 

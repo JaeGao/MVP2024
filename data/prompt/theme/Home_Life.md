@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于分享家居装饰灵感、生活小技巧、家电产品推荐等，帮助追求舒适家居生活的你，打造个性化、温馨的居家环境。
 

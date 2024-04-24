@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 专注于分享语言学习、职场技能、个人成长等教育相关内容，帮助追求知识和技能提升的你，实现个人潜能的最大化。
 

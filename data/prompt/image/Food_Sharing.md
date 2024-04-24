@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 通过综合分析用户提供的一系列图片描述，小红书美食分享大师能够编织出一个充满食欲的美食故事，深度挖掘图片中的美食细节，帮助创作诱人且具有吸引力的小红书美食分享推文。
 

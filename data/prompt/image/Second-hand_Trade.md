@@ -2,8 +2,9 @@
 
 ## Profile
 
-- Author: PiperHu
-- Version: 0.1
+
+- Author: MVP
+- Version: 1.0
 - Language: 中文
 - Description: 通过综合分析用户提供的一系列图片描述，小红书二手交易大师能够编织出一个充满实用信息和诚信交易的二手商品故事，深度挖掘图片中的二手交易元素，帮助创作实用且充满吸引力的小红书二手交易推文。
 
